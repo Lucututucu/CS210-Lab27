@@ -8,6 +8,7 @@
 #ifndef LAB27FUNCTS_H
 #define LAB27FUNCTS_H
 
-
+void encrypt(char* text, int key);
+void decrypt(char* text, int key);
 
 #endif 
